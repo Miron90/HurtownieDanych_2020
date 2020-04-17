@@ -1,6 +1,1 @@
-echo "# HurtownieDanych_2020" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/medii69/HurtownieDanych_2020.git
-git push -u origin master
+Hurtownia Danych Projekt 2020 Sobczak Dariusz I7B1S1, Miron Smardzewwski I7B1S1
